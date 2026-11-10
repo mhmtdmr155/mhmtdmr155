@@ -124,9 +124,15 @@ Geliştirme felsefem; teorik mühendislik temellerini doğrudan sahada test edil
 
 ## 📊 Live GitHub Insights
 
+## 📊 Live GitHub Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmtdmr155&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Mehmet Demir GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtdmr155&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmtdmr155&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Mehmet Demir GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmtdmr155&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="47%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mhmtdmr155&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Mehmet Demir GitHub Streak" width="97%" />
 </div>
 
 <br/>
