@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mehmet Demir
-### Computer Engineering (Senior / 4th Year) • Full-Stack, Embedded Systems & Applied ML
+### Computer Engineering (4th Year) • Full-Stack, Embedded Systems & Applied ML
 **Kahramanmaraş Sütçü İmam Üniversitesi — Bilgisayar Mühendisliği**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mehmetdemir.blog-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=161B22)](https://mehmetdemir.blog/)
