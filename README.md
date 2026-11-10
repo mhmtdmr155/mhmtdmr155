@@ -19,7 +19,7 @@ Architecting robust, end-to-end software: from low-level edge telemetry to cloud
 
 ## 📌 Executive Engineering Overview
 
-Kahramanmaraş Sütçü İmam Üniversitesi **Bilgisayar Mühendisliği 4. sınıf (Senior)** öğrencisiyim. Düşük seviyeli gömülü donanım mimarilerinden yüksek eşzamanlılıklı kurumsal bulut ve mobil platformlara kadar uzanan geniş bir spektrumda, **tam yığın (full-stack) ve üretim kalitesinde (production-ready)** yazılım çözümleri geliştiriyorum.
+Kahramanmaraş Sütçü İmam Üniversitesi **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Düşük seviyeli gömülü donanım mimarilerinden yüksek eşzamanlılıklı kurumsal bulut ve mobil platformlara kadar uzanan geniş bir spektrumda, **tam yığın (full-stack) ve üretim kalitesinde (production-ready)** yazılım çözümleri geliştiriyorum.
 
 Geliştirme felsefem; teorik mühendislik temellerini doğrudan sahada test edilmiş, hataya dayanıklı ve performans odaklı sistemlere dönüştürmek üzerine kuruludur:
 - **Akıllı Şehircilik & Kamu Altyapıları:** Kahramanmaraş Onikişubat Belediyesi için IoT tabanlı akıllı atık yönetimi (MQTT telemetri hattı ve operasyon paneli) ile ilçe gençliğinin hizmetine sunulan mobil platform (*GençOn 2*).
